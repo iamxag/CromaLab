@@ -6,7 +6,7 @@ namespace CromaLab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Dotnet Training");
         }
     }
 }
