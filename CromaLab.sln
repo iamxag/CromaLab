@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CromaLab", "CromaLab\CromaLab.csproj", "{9B465AC5-97EA-4E15-AEFE-7CE07273A90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstClassLibraryProject", "FirstClassLibraryProject\FirstClassLibraryProject.csproj", "{18411E34-A871-4455-9586-4CF7653BCC0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B465AC5-97EA-4E15-AEFE-7CE07273A90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B465AC5-97EA-4E15-AEFE-7CE07273A90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B465AC5-97EA-4E15-AEFE-7CE07273A90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B465AC5-97EA-4E15-AEFE-7CE07273A90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18411E34-A871-4455-9586-4CF7653BCC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18411E34-A871-4455-9586-4CF7653BCC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18411E34-A871-4455-9586-4CF7653BCC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18411E34-A871-4455-9586-4CF7653BCC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A217E06E-AF7B-424B-9AF2-AC181A2D1F07}
+	EndGlobalSection
+EndGlobal
